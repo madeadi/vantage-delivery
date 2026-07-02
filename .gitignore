@@ -46,3 +46,5 @@ pnpm-debug.log*
 
 # Air live-reload config output (if any)
 cmd/avdelivery/tmp/
+
+avdelivery
